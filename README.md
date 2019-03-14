@@ -26,3 +26,5 @@
 
 * Create a file with some data that fits your schema, and write a function to seed that data into the database.
 * Add this functionality as a setup script to your package.json and run it.
+
+[Sequelize Docs](http://docs.sequelizejs.com/manual/getting-started.html)
